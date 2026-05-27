@@ -10,3 +10,5 @@ build/
 *.json
 !data/*.yaml
 .pytest_cache/
+
+docs/
